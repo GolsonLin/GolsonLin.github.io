@@ -2,7 +2,7 @@
 title: "Non-Invasive Quantifi cation of Layer-Specific Intrinsic Fluorescence From Mucosa of theUterine Cervix Using Monte-Carlo-Based Models"
 collection: publications
 permalink: /publication/2022Frontiers
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-06-13
 venue: 'Frontiers in Physics'
 # paperurl: 'http://GolsonLin.github.io/files/2022Frontiers.pdf'
