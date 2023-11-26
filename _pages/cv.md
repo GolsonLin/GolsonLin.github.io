@@ -57,4 +57,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams-->
-<iframe src="https://drive.google.com/file/d/1RViXkR8BtpnGlqv52cGXN4N3DFHOzRH6/view?usp=drive_link" style="width:800px; height:500px;" frameborder="0"></iframe>
+<object width="900" height="900" data="https://docs.google.com/gview?embedded=true&url={{ site.url }}/files/Guosheng Lin.pdf"></object>
+
